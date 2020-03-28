@@ -1,4 +1,4 @@
-"All","全て",module,Magento_AdminGws
+﻿"All","全て",module,Magento_AdminGws
 "None","なし",module,Magento_AdminGws
 "Allowed Scopes","許可されたスコープ",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","このアイテムを削除するにはさらに権限が必要です: %1。",module,Magento_AdminGws
@@ -3231,7 +3231,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "We can't update the shopping cart.","ショッピングカートをアップデートできません。",module,Magento_Checkout
 "One-page checkout is turned off.","ワンページチェックアウトはオフです。",module,Magento_Checkout
 "Guest checkout is disabled.","ゲスト購入は無効です。",module,Magento_Checkout
-"Checkout","レジに進む",module,Magento_Checkout
+"Checkout","購入手続きへ",module,Magento_Checkout
 "Page not found.","ページが見つかりません。",module,Magento_Checkout
 "Please agree to all the terms and conditions before placing the order.","ご注文前にすべての契約条件にご同意ください。",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","注文をプロセス中に問題が発生しました。後で再度お試し下さい",module,Magento_Checkout
