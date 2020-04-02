@@ -1,4 +1,4 @@
-"All","全て",module,Magento_AdminGws
+﻿"All","全て",module,Magento_AdminGws
 "None","なし",module,Magento_AdminGws
 "Allowed Scopes","許可されたスコープ",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","このアイテムを削除するにはさらに権限が必要です: %1。",module,Magento_AdminGws
@@ -715,7 +715,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials
 "YTD","1年間",module,Magento_Backend
 "2YTD","2年間",module,Magento_Backend
 "Authentication storage is incorrect.","権限の保管が不正です。",module,Magento_Backend
-"You did not sign in correctly or your account is temporarily disabled.","正しくサインインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Backend
+"You did not sign in correctly or your account is temporarily disabled.","正しくログインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Backend
 "Authentication error occurred.","権限エラーが発生しました。",module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","管理者セッションライフタイムは、31536000秒以下（1年）でなくてはなりません",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","管理者セッションライフタイムは、60秒以上でなくてはなりません",module,Magento_Backend
@@ -730,7 +730,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials
 "previous page","前のページ",module,Magento_Backend
 ".","。",module,Magento_Backend
 "javascript:history.back()","javascript:history.back()",module,Magento_Backend
-"Welcome, please sign in","ようこそ、サインインしてください。",module,Magento_Backend
+"Welcome, please sign in","ようこそ、ログインしてください。",module,Magento_Backend
 "Username","ユーザー名",module,Magento_Backend
 "user name","ユーザー名",module,Magento_Backend
 "Password","パスワード",module,Magento_Backend
@@ -912,7 +912,7 @@ CSS Settings""",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","BaseURLは”/”で終了させてください。 例：http://yourdomain/magento/",module,Magento_Backend
 "Use Custom Admin Path","カスタム管理者パスを使用する",module,Magento_Backend
 "Custom Admin Path","カスタム管理者パス",module,Magento_Backend
-"You will have to sign in after you save your custom admin path.","カスタム管理者パスを設定すると再度サインインが必要になります。",module,Magento_Backend
+"You will have to sign in after you save your custom admin path.","カスタム管理者パスを設定すると再度ログインが必要になります。",module,Magento_Backend
 "Security","セキュリティ",module,Magento_Backend
 "Recovery Link Expiration Period (hours)","パスワード再設定リンクの有効期限(時間)",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","1またはそれ以上の数字を入力してください。",module,Magento_Backend
@@ -983,7 +983,7 @@ CSS Settings""",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","ストアビューを削除する事ができません。後でもう一度ためしてください。",module,Magento_Backend
 "Unable to delete website. Please, try again later.","ウェブサイトを削除する事ができません。後でもう一度ためしてください。",module,Magento_Backend
 "Access denied","アクセス拒否",module,Magento_Backend
-"Please try to sign out and sign in again.","サインアウトして再度サインインしてください。",module,Magento_Backend
+"Please try to sign out and sign in again.","サインアウトして再度ログインしてください。",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","このメッセージを受け取り続ける場合、ストアオーナーに連絡をしてください。",module,Magento_Backend
 "You need more permissions to access this.","アクセスするには更に権限が必要です。",module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","© Magento 商業株式会社. All rights reserved.",module,Magento_Backend
@@ -3311,7 +3311,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Shipping Method:","配送方法:",module,Magento_Checkout
 "Payment Method:","支払方法:",module,Magento_Checkout
 "Date & Time:","日時:",module,Magento_Checkout
-"Sign In","サインイン",module,Magento_Checkout
+"Sign In","ログイン",module,Magento_Checkout
 "Email Address","メールアドレス",module,Magento_Checkout
 "Password","パスワード",module,Magento_Checkout
 "Forgot Your Password?","パスワードをお忘れですか？",module,Magento_Checkout
@@ -3925,7 +3925,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "* Your latest changes on the company profile have not been saved yet.","*会社概要の最新の変更はまだ保存されていません。",module,Magento_Company
 "Dear %name,","Dear %name,",module,Magento_Company
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","あなたは会社管理者として<a href=""%customer_url"">%company_name</a>に割り当てられています。",module,Magento_Company
-"When you sign in to your account, you can:","アカウントにサインインすると以下のことができます:",module,Magento_Company
+"When you sign in to your account, you can:","アカウントにログインすると以下のことができます:",module,Magento_Company
 "* Create and manage company users and teams","* 会社のユーザーとチームの作成と管理",module,Magento_Company
 "* Manage user permissions for the store","* 店舗のユーザー権限の管理",module,Magento_Company
 "* Create and manage company shipping and billing addresses","* 会社の配送および請求先住所の作成と管理",module,Magento_Company
@@ -3962,7 +3962,7 @@ and use other B2B features.","あなたの会社のステータス<strong>%compa
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","アカウントの種類が会社管理者から通常のユーザーアカウントに変更されました。 謝りだと思われる場合は、マネージャーに詳細をお問い合わせ下さい。",module,Magento_Company
 "%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","あなたは販売担当者として %company_name に割り当てられています。",module,Magento_Company
-"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",module,Magento_Company
+"When you sign in to your account, you will be able to:","アカウントにログインすると以下のことができます:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* 管理画面における会社の見積もりの表示と管理",module,Magento_Company
 "* View and edit company profile in Admin Panel","* 管理画面における会社概要の表示と編集",module,Magento_Company
 "Your company account <strong>%company_name</strong> has been blocked.,module,Magento_Company
@@ -4720,7 +4720,7 @@ new products will be created. Use this step to customize images and price for yo
 "Please correct the value for file extensions.","ファイルの拡張子の値を修正してください。",module,Magento_CustomAttributeManagement
 "Alphanumeric with spaces","Alphanumeric with spaces",module,Magento_CustomAttributeManagement
 "Sign Out","サインアウト",module,Magento_Customer
-"Sign In","サインイン",module,Magento_Customer
+"Sign In","ログイン",module,Magento_Customer
 "You are subscribed to our newsletter.","ニュースレターを購読しています",module,Magento_Customer
 "You aren't subscribed to our newsletter.","ニュースレターを購読していません",module,Magento_Customer
 "You have not set a default shipping address.","標準の配送先を指定してください。",module,Magento_Customer
@@ -4734,7 +4734,7 @@ new products will be created. Use this step to customize images and price for yo
 "Delete Customer","顧客の削除",module,Magento_Customer
 "Reset Password","パスワード再発行",module,Magento_Customer
 "Are you sure you want to revoke the customer's tokens?","本当に顧客のトークンを剥奪しますか？",module,Magento_Customer
-"Force Sign-In","強制サインイン",module,Magento_Customer
+"Force Sign-In","強制ログイン",module,Magento_Customer
 "New Customer","新規顧客",module,Magento_Customer
 "Save and Continue Edit","保存して編集を続ける",module,Magento_Customer
 "Back","戻る",module,Magento_Customer
@@ -4841,7 +4841,7 @@ new products will be created. Use this step to customize images and price for yo
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","あなたが登録済みVAT顧客の場合は;<a href=""%1"">ここをクリック</a>して正しいVAT計算のために請求先住所を入力してください。",module,Magento_Customer
 "Account Information","アカウント情報",module,Magento_Customer
 "You saved the account information.","アカウント情報を保存しました。",module,Magento_Customer
-"You did not sign in correctly or your account is temporarily disabled.","正しくサインインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","正しくログインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Customer
 "Password confirmation doesn't match entered password.","パスワードの確認が入力されたパスワードと一致しません。",module,Magento_Customer
 "The password doesn't match this account.","パスワードはこのアカウントとマッチしません。",module,Magento_Customer
 "Please correct the email address.","Eメールアドレスを修正してください",module,Magento_Customer
@@ -5057,7 +5057,7 @@ new products will be created. Use this step to customize images and price for yo
 "Please enter your email below and we will send you the confirmation link.","Eメールを下に入力してください。確認リンクを送付します。",module,Magento_Customer
 "Email","Eメール",module,Magento_Customer
 "Send confirmation link","確認リンクを送信する",module,Magento_Customer
-"Back to Sign In","サインインに戻る",module,Magento_Customer
+"Back to Sign In","ログインに戻る",module,Magento_Customer
 "Change Email","メールアドレスを変更",module,Magento_Customer
 "Change Email and Password","メールアドレスとパスワードを変更する",module,Magento_Customer
 "Current Password","現在のパスワード",module,Magento_Customer
@@ -5092,21 +5092,21 @@ new products will be created. Use this step to customize images and price for yo
 "Welcome to %store_name","%store_name へようこそ",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","ようこそ %store_name へ",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにログインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",module,Magento_Customer
 "Email:","メール:",module,Magento_Customer
 "Password:","パスワード:",module,Magento_Customer
 "Password you set when creating account","アカウント作成時に設定したパスワード",module,Magento_Customer
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","パスワードをお忘れですか？<a href=""%reset_url"">ここ</a>をクリックしてリセットしてください。",module,Magento_Customer
-"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",module,Magento_Customer
+"When you sign in to your account, you will be able to:","アカウントにログインすると以下のことができます:",module,Magento_Customer
 "Proceed through checkout faster","チェックアウトを通して早く処理する",module,Magento_Customer
 "Check the status of orders","注文のステータスを確認",module,Magento_Customer
 "View past orders","過去の注文を表示",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","店舗の別住所 (複数の家族メンバーと友達のために)",module,Magento_Customer
 "Please confirm your %store_name account","%store_nameアカウントを確認してください",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","サインイン前に%customer_emailメールを確認してください。 (リンクは一度きり有効です):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","ログイン前に%customer_emailメールを確認してください。 (リンクは一度きり有効です):",module,Magento_Customer
 "Confirm Your Account","アカウントを確認してください",module,Magento_Customer
 "Thank you for confirming your %store_name account.","%store_name accountをご確認ありがとうございます。",module,Magento_Customer
-"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","サイトにサインインしてパスワードを設定するには、 <a href=""%create_password_url"">リンク</a>をクリックしてください:",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","サイトにログインしてパスワードを設定するには、 <a href=""%create_password_url"">リンク</a>をクリックしてください:",module,Magento_Customer
 "Your %store_name email has been changed","%store_name のメールアドレスが変更されました",module,Magento_Customer
 "Hello,","こんにちは、",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","お客様のアカウントに関連付けられている以下の情報を %store_name: emailで変更するリクエストを受け取りました。",module,Magento_Customer
@@ -6046,8 +6046,8 @@ Promo Section""",module,Magento_Cybersource
 "Something went wrong while getting the requested content.","リクエストされたコンテントを入手中に問題が発生しました",module,Magento_Downloadable
 "My Downloadable Products","ダウンロード可能な商品",module,Magento_Downloadable
 "We can't find the link you requested.","リクエストされたリンクが見つかりませんでした",module,Magento_Downloadable
-"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","サインインして商品か購入 <a href=""%1"">%2</a>をダウンロードしてください。",module,Magento_Downloadable
-"Please sign in to download your product.","サインインしてあなたの商品をダウンロードしてください。",module,Magento_Downloadable
+"Please sign in to download your product or purchase <a href=""%1"">%2</a>.","ログインして商品か購入 <a href=""%1"">%2</a>をダウンロードしてください。",module,Magento_Downloadable
+"Please sign in to download your product.","ログインしてあなたの商品をダウンロードしてください。",module,Magento_Downloadable
 "The link has expired.","リンクは有効期限切れです。",module,Magento_Downloadable
 "The link is not available.","リンクは利用できません。",module,Magento_Downloadable
 "Sorry, there was an error getting requested content. Please contact the store owner.","申し訳ございません。コンテンツのダウンロード中にエラーが発生しました。担当者にお問い合わせください。",module,Magento_Downloadable
@@ -7234,7 +7234,7 @@ Promo Section""",module,Magento_Cybersource
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","<a href='%account_url'>％store_name </a>に自分のギフトレジストリを作成し、それを友人や家族と共有することができます。",module,Magento_GiftRegistry
 "Gift Registry updated at %store_name","ギフトレジストリが%store_nameで更新されました",module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","以下のアイテムはギフトレジストリ ""%registry_name""から購入しました。:",module,Magento_GiftRegistry
-"You can sign in to your account to view more details about this gift registry.","このギフトレジストリの詳細を表示するには、アカウントにサインインすることでできます。",module,Magento_GiftRegistry
+"You can sign in to your account to view more details about this gift registry.","このギフトレジストリの詳細を表示するには、アカウントにログインすることでできます。",module,Magento_GiftRegistry
 "Ship to Recipient Address","受信者住所に配送する",module,Magento_GiftRegistry
 "Ship Here","この住所にお届け",module,Magento_GiftRegistry
 "Recipient Address","受信者アドレス",module,Magento_GiftRegistry
@@ -7697,7 +7697,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Integration '%1' has been sent for activation.","インテグレーション '%1' アクティベーションに送られました",module,Magento_Integration
 "A consumer with ID %1 does not exist","ID %1の顧客は存在しません",module,Magento_Integration
 "title","タイトル",module,Magento_Integration
-"You did not sign in correctly or your account is temporarily disabled.","正しくサインインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Integration
+"You did not sign in correctly or your account is temporarily disabled.","正しくログインしなかったかあなたのアカウントは一時的に無効です",module,Magento_Integration
 "This user has no tokens.","このユーザーにトークンはありません",module,Magento_Integration
 "The tokens could not be revoked.","トークンは破棄することができませんでした",module,Magento_Integration
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","申し訳ありません、許可を受諾中に問題が発生しました。例外ログにて詳細を確認できます。",module,Magento_Integration
@@ -7746,7 +7746,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "No permissions requested","許可がリクエストされていません",module,Magento_Integration
 "Are you sure ?","本当によろしいですか？",module,Magento_Integration
 "Are you sure you want to delete this integration? You can't undo this action.","本当にこのインテグレーションを削除しますか？この操作はやり直しができません",module,Magento_Integration
-"Please setup or sign in into your 3rd party account to complete setup of this integration.","このインテグレーションのセットアップを完了するためにサードパーティのアカウントを設定するかサインインしてください",module,Magento_Integration
+"Please setup or sign in into your 3rd party account to complete setup of this integration.","このインテグレーションのセットアップを完了するためにサードパーティのアカウントを設定するかログインしてください",module,Magento_Integration
 "Available APIs","有効な APIs",module,Magento_Integration
 "Resource Access","リソースアクセス",module,Magento_Integration
 "Custom","カスタム",module,Magento_Integration
@@ -9337,7 +9337,7 @@ If field is empty default value localhost will be saved.","Varnish上のキャ�
 "We can't initialize Express Checkout review.","エクスプレスチェックアウトリヴューは初期化できません。",module,Magento_Paypal
 "We can't update shipping method.","発送方法をアップデートできません。",module,Magento_Paypal
 "We can't start Express Checkout.","エクスプレスチェックアウトをスタートできません。",module,Magento_Paypal
-"To check out, please sign in with your email address.","チェックアウトするのは、Eメールアドレスでサインインしてください。",module,Magento_Paypal
+"To check out, please sign in with your email address.","チェックアウトするのは、Eメールアドレスでログインしてください。",module,Magento_Paypal
 "Sorry, but something went wrong","申し訳ありませんが、何か問題が発生しました",module,Magento_Paypal
 "Your payment has been declined. Please try again.","支払が拒否されました。再度お試しください。",module,Magento_Paypal
 "Requested payment method does not match with order.","リクエストされたお支払い方法が注文と一致しません。",module,Magento_Paypal
@@ -10011,7 +10011,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Welcome, %1!","ようこそ、%1様!",module,Magento_Persistent
 "We cannot load the configuration from file %1.","%1 から設定を読み込むことができません。",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","%1 メソッドは %2 で定義されていません。",module,Magento_Persistent
-"To check out, please sign in using your email address.","チェックアウトするのは、Eメールアドレスでサインインしてください。",module,Magento_Persistent
+"To check out, please sign in using your email address.","チェックアウトするのは、Eメールアドレスでログインしてください。",module,Magento_Persistent
 "Remember Me","ログイン状態を維持する",module,Magento_Persistent
 "What's this?","これは何ですか？",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","&quot; カート情報を維持 &quot; をクリックして、ログインしていない状態でもショッピングカートにアクセスできるようにしましょう。",module,Magento_Persistent
@@ -10664,8 +10664,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "%name,","%name,",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","急いで、 %promotion_name プロモーションを利用しましょう！",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","急いでこのプロモーションを利用しましょう！",module,Magento_Reminder
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","プロモーションを利用するには、<a href=""%account_url"">%store_name</a>にサインインしてクーポン ""%coupon_code"" をショッピングカートにて適用する必要があります。",module,Magento_Reminder
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","プロモーションを利用するには、<a href=""%account_url"">%store_name</a>でサインインする必要があります",module,Magento_Reminder
+"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","プロモーションを利用するには、<a href=""%account_url"">%store_name</a>にログインしてクーポン ""%coupon_code"" をショッピングカートにて適用する必要があります。",module,Magento_Reminder
+"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","プロモーションを利用するには、<a href=""%account_url"">%store_name</a>でログインする必要があります",module,Magento_Reminder
 "This coupon can be used only up to %coupon_limit time(s) by you or other customers.","このクーポンは、お客様または他のお客様が %coupon_limit 回まで使用することができます。",module,Magento_Reminder
 "You can use this coupon up to %coupon_limit time(s).","このクーポンは %coupon_limit まで使用できます。",module,Magento_Reminder
 "Promo Section","プロモーションセクション",module,Magento_Reminder
@@ -14684,12 +14684,12 @@ than a customer might expect. ","警告 値引きに関する税設定は顧客�
 "Minute","分",module,Magento_Theme
 "%name,","%name,",module,Magento_Theme
 "Welcome to %store_name.","ようこそ %store_name へ",module,Magento_Theme
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにログインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",module,Magento_Theme
 "Email:","メール:",module,Magento_Theme
 "Password:","パスワード:",module,Magento_Theme
 "Password you set when creating account","アカウント作成時に設定したパスワード",module,Magento_Theme
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","パスワードをお忘れですか？<a href=""%reset_url"">ここ</a>をクリックしてリセットしてください。",module,Magento_Theme
-"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",module,Magento_Theme
+"When you sign in to your account, you will be able to:","アカウントにログインすると以下のことができます:",module,Magento_Theme
 "Proceed through checkout faster","チェックアウトを通して早く処理する",module,Magento_Theme
 "Check the status of orders","注文のステータスを確認",module,Magento_Theme
 "View past orders","過去の注文を表示",module,Magento_Theme
@@ -15256,7 +15256,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Save User","ユーザーの保存",module,Magento_User
 "Delete User","ユーザーの削除",module,Magento_User
 "Are you sure you want to revoke the user's tokens?","ユーザーのトークンを本当に破棄しますか？",module,Magento_User
-"Force Sign-In","強制サインイン",module,Magento_User
+"Force Sign-In","強制ログイン",module,Magento_User
 "Edit User '%1'","ユーザー '%1' 編集",module,Magento_User
 "New User","新規ユーザー",module,Magento_User
 "Account Information","アカウント情報",module,Magento_User
@@ -15309,7 +15309,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "email","Eメール",module,Magento_User
 "password","パスワード",module,Magento_User
 "username","ユーザー名",module,Magento_User
-"You did not sign in correctly or your account is temporarily disabled.","正しくサインインしなかったかあなたのアカウントは一時的に無効です",module,Magento_User
+"You did not sign in correctly or your account is temporarily disabled.","正しくログインしなかったかあなたのアカウントは一時的に無効です",module,Magento_User
 "You need more permissions to access this.","アクセスするには更に権限が必要です。",module,Magento_User
 "Your account is temporarily disabled.","あなたのアカウントは一時的に無効になっています。",module,Magento_User
 "User Name is a required field.","ユーザーネームは必須項目です。",module,Magento_User
@@ -15327,7 +15327,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Enter your email address.  You will receive an email with a link to reset your password.","Eメールアドレスを入力してください。パスワードをリセットするリンクを添付したEメールが届きます。",module,Magento_User
 "Email address","Eメールアドレス",module,Magento_User
 "Retrieve Password","パスワード再発行",module,Magento_User
-"Back to Sign in","サインインに戻る",module,Magento_User
+"Back to Sign in","ログインに戻る",module,Magento_User
 "Forgot your password?","パスワードをお忘れですか？",module,Magento_User
 "Reset a Password","パスワードリセット",module,Magento_User
 "Confirm New Password","新パスワード確認",module,Magento_User
@@ -16239,12 +16239,12 @@ Priority Mail Small Flat Rate Box Hold For Pickup""",module,Magento_Usps
 "Welcome to %store_name","%store_name へようこそ",theme,frontend\Magento\luma
 "%name,","%name,",theme,frontend\Magento\luma
 "Welcome to %store_name.","ようこそ %store_name へ",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにログインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:",theme,frontend\Magento\luma
 "Email:","メール:",theme,frontend\Magento\luma
 "Password:","パスワード:",theme,frontend\Magento\luma
 "Password you set when creating account","アカウント作成時に設定したパスワード",theme,frontend\Magento\luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","パスワードをお忘れですか？<a href=""%reset_url"">ここ</a>をクリックしてリセットしてください。",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","アカウントにサインインすると以下のことができます:",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","アカウントにログインすると以下のことができます:",theme,frontend\Magento\luma
 "Quick Checkout","クイックチェックアウト",theme,frontend\Magento\luma
 "Proceed through checkout faster","チェックアウトを通して早く処理する",theme,frontend\Magento\luma
 "Order Status","注文ステータス",theme,frontend\Magento\luma
