@@ -1,4 +1,4 @@
-﻿"All","全て",module,Magento_AdminGws
+"All","全て",module,Magento_AdminGws
 "None","なし",module,Magento_AdminGws
 "Allowed Scopes","許可されたスコープ",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","このアイテムを削除するにはさらに権限が必要です: %1。",module,Magento_AdminGws
@@ -516,7 +516,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials
 "Amounts","売上高",module,Magento_Backend
 "Bestsellers","ベストセラー",module,Magento_Backend
 "Most Viewed Products","最も閲覧された商品",module,Magento_Backend
-"New Customers","まだご登録いただいていないお客様",module,Magento_Backend
+"New Customers","まだDDMGに登録されていない方",module,Magento_Backend
 "Customers","顧客",module,Magento_Backend
 "Customer","顧客",module,Magento_Backend
 "Guest","ゲスト様",module,Magento_Backend
@@ -735,7 +735,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials
 "user name","ユーザー名",module,Magento_Backend
 "Password","パスワード",module,Magento_Backend
 "password","パスワード",module,Magento_Backend
-"Sign in","サインイン",module,Magento_Backend
+"Sign in","ログイン",module,Magento_Backend
 "Select Range:","範囲を選択してください：",module,Magento_Backend
 "No Data Found","データが見つかりませんでした",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","チャートが無効です。チャートを有効にするには、 <a href=""""%1"""">ここ</a>をクリックしてください。",module,Magento_Backend
@@ -3293,7 +3293,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Excl. Tax","税抜",module,Magento_Checkout
 "Loading...","読み込み中",module,Magento_Checkout
 "Order #","注文 #",module,Magento_Checkout
-"Proceed to Checkout","レジに進む",module,Magento_Checkout
+"Proceed to Checkout","ご購入手続きへ",module,Magento_Checkout
 "Product Name","商品名",module,Magento_Checkout
 "Incl. Tax","税込",module,Magento_Checkout
 "Your order number is: %1.","あなたの注文番号は: %1.",module,Magento_Checkout
@@ -3919,7 +3919,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Save Role","権限の保存",module,Magento_Company
 "Add New User","新しいユーザーを追加",module,Magento_Company
 "Company","会社名",module,Magento_Company
-"Create an Account","アカウント作成",module,Magento_Company
+"Create an Account","会員登録",module,Magento_Company
 "Change","変更",module,Magento_Company
 "This action will replace your Company Admin.","この操作はあなたの会社管理者を置き換えます。",module,Magento_Company
 "* Your latest changes on the company profile have not been saved yet.","*会社概要の最新の変更はまだ保存されていません。",module,Magento_Company
@@ -4048,7 +4048,7 @@ for the following reason:",module,Magento_Company
 "View users and teams","ユーザーとチームを表示",module,Magento_Company
 "Manage users and teams","ユーザーとチームの管理",module,Magento_Company
 "Sales","セールス",module,Magento_Company
-"Checkout (place order)","レジに進む（注文を確定する）",module,Magento_Company
+"Checkout (place order)","購入する（注文を確定する）",module,Magento_Company
 "Use Pay On Account method","内金支払い方法を使用",module,Magento_Company
 "View orders","注文を表示",module,Magento_Company
 "View orders of subordinate users","下位のユーザの注文を表示",module,Magento_Company
@@ -4599,12 +4599,12 @@ new products will be created. Use this step to customize images and price for yo
 "Comment is missing","コメントがありません",module,Magento_Contact
 "Invalid email address","不正なメールアドレス",module,Magento_Contact
 "* Required Fields","* 必須項目",module,Magento_Contact
-"Write Us","ご連絡ください",module,Magento_Contact
+"Write Us","お問い合わせ",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","お問い合わせいただければ、可能な限り早くお返事させていただきます。",module,Magento_Contact
 "Name","名前",module,Magento_Contact
 "Email","Eメール",module,Magento_Contact
 "Phone Number","電話番号",module,Magento_Contact
-"What’s on your mind?","お困りでしょうか？",module,Magento_Contact
+"What’s on your mind?","お問い合わせ内容",module,Magento_Contact
 "Submit","送信",module,Magento_Contact
 "Contact Form","コンタクトフォーム",module,Magento_Contact
 "Phone","電話",module,Magento_Contact
@@ -5068,7 +5068,7 @@ new products will be created. Use this step to customize images and price for yo
 "Save","保存",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Eメールアドレスを下記に入力してパスワードリセットリンクを受け取ってください。",module,Magento_Customer
 "Reset My Password","パスワードをリセットする",module,Magento_Customer
-"Registered Customers","既にご登録いただいているお客様",module,Magento_Customer
+"Registered Customers","DDMG会員ログイン",module,Magento_Customer
 "If you have an account, sign in with your email address.","ご登録済みのお客様は、こちらからログインください。",module,Magento_Customer
 "Password","パスワード",module,Magento_Customer
 "Forgot Your Password?","パスワードをお忘れですか？",module,Magento_Customer
@@ -5076,13 +5076,13 @@ new products will be created. Use this step to customize images and price for yo
 "General Subscription","総合情報",module,Magento_Customer
 "Sign Up for Newsletter","ニュースレターを購読",module,Magento_Customer
 "Address Information","住所情報",module,Magento_Customer
-"Sign-in Information","サインイン情報",module,Magento_Customer
+"Sign-in Information","ログイン情報",module,Magento_Customer
 "Confirm Password","パスワード再確認",module,Magento_Customer
 "Create an Account","アカウント作成",module,Magento_Customer
 "Set a New Password","新規パスワードセット",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","サインアウトしました。5秒後にTOPページに移動します。",module,Magento_Customer
 "New Customers","まだご登録いただいていないお客様",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","会員登録いただくと、次のメリットがあります: 簡単にご購入いただけます、ご住所の登録ができます、ご注文内容をあとから確認いただけます。",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","DDMG会員に新規登録で300ポイントプレゼント",module,Magento_Customer
 "Company","会社名",module,Magento_Customer
 "Fax","Fax",module,Magento_Customer
 "Gender","性別",module,Magento_Customer
@@ -5557,7 +5557,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Address Information","住所情報",module,Magento_CustomerCustomAttributes
 "Company","会社名",module,Magento_CustomerCustomAttributes
 "Phone Number","電話番号",module,Magento_CustomerCustomAttributes
-"Sign-in Information","サインイン情報",module,Magento_CustomerCustomAttributes
+"Sign-in Information","ログイン情報",module,Magento_CustomerCustomAttributes
 "Password","パスワード",module,Magento_CustomerCustomAttributes
 "Confirm Password","パスワード再確認",module,Magento_CustomerCustomAttributes
 "Create an Account","アカウント作成",module,Magento_CustomerCustomAttributes
@@ -8784,7 +8784,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Reason: %reason.","理由: %reason",module,Magento_NegotiableQuote
 " expires on "," で期限切れ ",module,Magento_NegotiableQuote
 " after which time you can’t order the items in the quote. After the expiration,,module,Magento_NegotiableQuote
-you’ll have to negotiate the price with the seller again."," その後は、見積もりの商品を注文できません。有効期限が切れた後、,module,Magento_NegotiableQuote
+you’ll have to negotiate the price with the seller again."," その後は、見積もりの商品を注文できません。有効期限が切れた後、,module,Magento_NegotiableQuote
 販売者との価格交渉をもう一度行う必要があります。",module,Magento_NegotiableQuote
 "%merchant_name,","%merchant_name、",module,Magento_NegotiableQuote
 "%quote_id","%quote_id",module,Magento_NegotiableQuote
@@ -13165,7 +13165,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Delete","削除",module,Magento_Search
 "Are you sure you want to delete synonym group with id: %1?","id：%1の類義語グループを削除してもよろしいですか？",module,Magento_Search
 "View/Edit","表示/編集",module,Magento_Search
-"Search entire store here...","ストア全体から検索....",module,Magento_Search
+"Search entire store here...","キーワードから探す",module,Magento_Search
 "There are no search terms available.","利用できる検索キーワードがありません",module,Magento_Search
 "Search Engine","検索エンジン",module,Magento_Search
 "CSV","CSVファイル",module,Magento_Search
@@ -13193,7 +13193,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Merge existing synonyms","既存の同義語をマージする",module,Magento_Search
 "The synonym group with the ""%1"" ID can't be deleted. %2","The synonym group with the ""%1"" ID can't be deleted. %2",module,Magento_Search
 "Advanced Search","詳細検索",module,Magento_SearchStaging
-"Search Terms","検索ワード",module,Magento_SearchStaging
+"Search Terms","検索キーワード",module,Magento_SearchStaging
 "Account Activity","アカウントアクティビティ",module,Magento_Security
 "All other open sessions for this account were terminated.","このアカウントの他のすべてのログインセッションは期限切れになりました。",module,Magento_Security
 "We couldn't logout because of an error.","エラーのためログアウトできませんでした。",module,Magento_Security
@@ -16014,8 +16014,8 @@ Priority Mail Small Flat Rate Box Hold For Pickup""",module,Magento_Usps
 "Specific %1","特定の %1",module,Magento_Widget
 "Open Chooser","選択を開く",module,Magento_Widget
 "Apply","適用",module,Magento_Widget
-"Page","ページ",module,Magento_Widget
-"Orders and Returns","注文と返品",module,Magento_Widget
+"Page","ページ",module,Magento_Widget	
+"Orders and Returns","注文確認",module,Magento_Widget
 "Orders and Returns Search Form","注文と返品検索フォーム",module,Magento_Widget
 "Anchor Custom Title","アンカーカスタムタイトル",module,Magento_Widget
 "CMS Page Link Block Template","CMSページリンクブロックテンプレート",module,Magento_Widget
